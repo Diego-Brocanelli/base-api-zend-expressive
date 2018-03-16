@@ -24,6 +24,11 @@ composer serve
 
 ```
 
+Acesso a seguinte URL pelo navegador.
+
+```
+localhost:8080
+```
 
 # Rotas
 
